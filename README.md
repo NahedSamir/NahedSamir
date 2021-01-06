@@ -7,7 +7,7 @@
   </p>
 </p>
 <p align="left">
-  <p align="left">A passionate iOS developer from Egypt</p>
+  <p align="left">A passionate Fullstack developer from Egypt</p>
 </p>
 
 - 🔭 I’m currently working as **Fullstack Developer @ <a href="https://cyshield.com/">Cyshield</a>**
